@@ -1,3 +1,5 @@
 Rapii notes app v-1
+Function: Edit Existing Note
+- User can modify notes
 Function: Add New Note
 - User can write a new note
